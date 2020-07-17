@@ -1,16 +1,18 @@
-### Hi there 👋
+### Intro
 
-<!--
-**Rookeh/Rookeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn coffee into source code for a living!
 
-Here are some ideas to get you started:
+Senior Developer at [@sky-uk](https://github.com/sky-uk), but this is my personal account, so views/opinions and contributions are my own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests:
+
+- IoT 🚀
+- Home Automation 🏠
+- Electric Vehicles 🔌🚘
+
+## Languages:
+
+- C#
+- Python
+- JavaScript
+- Java
