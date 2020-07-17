@@ -1,4 +1,4 @@
-### Intro
+# Intro 👋
 
 I turn coffee into source code for a living!
 
@@ -16,3 +16,10 @@ Senior Developer at [@sky-uk](https://github.com/sky-uk), but this is my persona
 - Python
 - JavaScript
 - Java
+- SQL (T-SQL, PL/SQL, some others.)
+
+## Frameworks:
+
+- .NET Core
+- Docker / Swarm / K8S
+- React/Redux
