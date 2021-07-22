@@ -17,6 +17,7 @@ Senior Developer at [@sky-uk](https://github.com/sky-uk), but this is my persona
 - JavaScript
 - TypeScript
 - Java
+- Groovy
 - SQL (T-SQL, PL/SQL, some others.)
 
 ## Frameworks:
